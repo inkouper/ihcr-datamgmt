@@ -1,0 +1,54 @@
+## Data Disposition - as open as possible, as closed as necessary  {#data3}
+
+### *Introduction* {.unlisted .unnumbered}
+
+When a project ends, broadly sharing as much data and other research outputs is critical to allow others to validate and replicate your work. The volume and diversity of data in an interdisciplinary project can make this challenging; particularly when some of that data may lack the originating context, or potentially contain sensitive, personal data.   As your project is being completed, the team must come together to decide and execute previous plans for where the data will be shared, how long it can be stored there for, and who will be responsible for maintaining the data should services change.  An important consideration is that many data sharing and preservation options are not free.  
+
+If a plan is not put in place for long term data archiving and sharing, it’s very easy for critical files to end up lost in email chains, or stored on someone’s personal computer.  If you’re audited for your project, or need to access these files again - recovery can be a slow and difficult process.   Without proper discussion on data security, a spreadsheet containing sensitive data could easily be sent over email to an outside, unencrypted email - violating federal privacy laws.   In addition, many online tools go out of service, and if no one is there to recover the data, then the data can easily be lost. 
+
+
+### *Questions to Consider* {.unlisted .unnumbered}
+
+- Where will the data be shared publicly long term?  Will all project data be shared in one repository, or will it be distributed across multiple disciplinary repositories?
+  - Is the entire group's data going to be deposited long-term in one place?  Is it advantageous for the data to be spread out among multiple online locations? 
+- Will your public data sharing plans cost money?  How long can you expect the data to be available in those systems?  
+  - In finding an appropriate repository for data deposit and public sharing, have you considered these important repository capabilities 
+- Are there data sensitivity issues?  
+  - What justifications might you have to not share your data publicly?  Could you share part of your data if you took more actions on it, e.g. deidentified human participants data?
+  - Who could you talk to find out more regarding policies and procedures on sharing sensitive data?  
+- Who will be the primary contact for the data?   
+  - Who will be responsible if errors are found within the data, or if a potential user has technical questions? Or if a user is seeking to collaborate on their use of the data?  
+  
+   
+ 
+
+### *Additional Resources* {.unlisted .unnumbered}
+
+IHCR Data Catalog
+
+IHCR Workflow preservation platform data
+
+## Creating Reusable Data  {#data4}
+
+### *Introduction* {.unlisted .unnumbered}
+
+Despite the data being as open as possible, many data issues can still arise preventing it from being reusable.  A lack of a well-written data dictionary, numeric column headers, and explanation for data sources can make the data practically unusable to someone trying to build on your work. In interdisciplinary projects, where the diversity of data & collection tools can make it even more difficult for an outsider to ascertain how data was collected, what each data table means, and how it could be used for their own purpose.  While this is more work in the short term, documenting data collection methods, leaving extensive data dictionaries, organizing the data in an understandable & readable way, ect.; ultimately ensures that your data can be useful long into the future by both the creators of the data and others in the future.  
+
+If your spreadsheet contains columns/rows without identifiers, are connected in ways that aren’t documented, or has so many files that it would be impossible for someone not on the project to understand - then it will be more difficult for future researchers looking to use the data.  Your data should always carry supplemental information with explanation, particularly when that data is going to be in long term archiving at a project's end. 
+
+
+### *Questions to Consider* {.unlisted .unnumbered}
+
+- How easy is it for an outsider to interpret your data?  What accompanying explanation will it require?  Does the dataset link to that explanation?  
+  - Would an outsider be able to understand your data by looking at the raw or analyzed files?  Would they be able to open, interpret and visualize them?  Would the data require special software to access?  
+- Is the data searchable?  If so, through which databases?  
+  - How would someone find your data? (e.g. a digital object identifier, journal article, Google, additional databases)
+
+   
+ 
+ 
+### *Additional Resources* {.unlisted .unnumbered}
+
+IHCR Workflow for historical/humanities data modeling
+
+IHCR Workflow preservation platform data

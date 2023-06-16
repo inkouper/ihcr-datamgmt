@@ -1,0 +1,19 @@
+# Table of Contents {.unnumbered #main}
+
+Planning a Project
+
+-   [Project Management](#managment)
+-   [Sharing among the group after the project](#sharing)
+-   [Choosing from a variety of tools/methods](#tools)
+-   [Where will data be stored?  Who has access?](#data1)
+
+During a Project
+
+-   [Keeping data and data storage consistent](#data2)
+-   [Modifying tools/methods](#modify)
+-   [Responsibly leaving an ongoing project](#leave)
+
+After a Project
+
+-   [Data disposition](#data3)
+-   [Creating reusable data](#data4)

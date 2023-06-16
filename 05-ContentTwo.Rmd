@@ -1,0 +1,71 @@
+## Keeping Data & Data Storage Consistent  {#data2}
+
+### *Introduction* {.unlisted .unnumbered}
+
+As a project continues, good data practices can slide and data management problems can arise.  While often these can be solved relatively easily in a domain isolated project, for an interdisciplinary and highly collaborative project, these problems can quickly cascade into large problems that can lead to delays in answering research questions.  Examples include  not properly updating shared data storage to reflect changes to the research process, storing critical files only on local devices, and not properly documenting data changes.  It is also important for the researchers to consider if their storage plans are working well or need to be modified. 
+
+Keeping data messy, or having no central plan for data management will inevitably lead to confusion, difficulty in utilizing programmatic tools (even basic manipulation in excel), and will lead to frustration in accomplishing interdisciplinary  This could also lead to competing versions of different datasets, which can lead to inaccuracies in final outputs.  Spreadsheets are not a substitution for a lab notebook.
+
+
+### *Questions to Consider* {.unlisted .unnumbered}
+
+- Will multiple people be working on the same dataset?  Are procedures established for how such datasets will be collected, documented, stored, and otherwise managed?
+  - Are datasets modified or combined after being shared with and used by group members? How will these modifications be tracked?  
+- How will the datasets be updated?  Where is the “master” version of the data?  How will team members be notified of dataset changes?   Will backups of older versions of the dataset be maintained?  
+  - How will the data be backed up?  Who is responsible for data backups?  
+  - If the dataset is changed, what is the main version of the dataset?  Will people need to reference the original version?  
+
+   
+ 
+
+### *Additional Resources* {.unlisted .unnumbered}
+
+IHCR Workflow Information storage and organization
+
+## Modifying Tools & Methods  {#modify}
+
+### *Introduction* {.unlisted .unnumbered}
+
+Whether it is the addition of a new team member, shifting resources, or simply a method being not as effective as previously thought, change in research mid-project is common.  For an interdisciplinary and highly collaborative research project,these issues may arise all at once with every member of the team, or it may be the case that certain domains are encountering issues where others may not.    When modifying a tool or method mid-project, it is important that everyone on the team be aware, and fully understand the implications of the change.  Consider how the change may affect every member of the team.  
+
+If a tool becomes critical, but is difficult to use due to it being heavily relied on knowledge of a particular discipline, it can greatly affect the team's effort if something happens to that particular participant.  In addition, as team members come and go, it may be that the expert in the tool leaves without finding a suitable replacement, which could potentially massively impede progress and delay outputs.  
+
+
+### *Questions to Consider* {.unlisted .unnumbered}
+
+- What necessitated a change in tools/methods?  Did the tools not work as expected?   Are the current tools working for you?  Are there methods of communication that unreasonably slow the process?  
+- Does the entire team need to modify their methods, or only some of them? Are all relevant team members informed of the change?
+- How will changes in tools or methods during the project be recorded such that data workflows are trackable in the future?  
+  - Is there relevant documentation or manuals that can be used as references for previously used tools or methods?  
+
+
+ 
+
+### *Additional Resources* {.unlisted .unnumbered}
+
+IHCR Quantitative Data Processing
+
+## Responsibly Leaving or Joining an Ongoing Project  {#leave}
+
+### *Introduction* {.unlisted .unnumbered}
+
+It is highly unlikely that each team member will all be on the same timeline for when they will be graduating, or continuing to be a part of the project.  It is always frustrating when someone leaves a project with critical knowledge & data, particularly if they cannot be easily reached after leaving. And IHCR team members are more likely to have knowledge or create data that the other members do not fully understand. If you are the person leaving the project there are many things you can do to ensure the project continues to run smoothly after your departure, and with minimal need for the team to contact you in the future.  
+
+If proper steps are not taken, it is very easy for ex-projects members to be unreachable, and for them to remove critical pieces of data/project work from their personal devices.  You don’t want a project you left two years ago calling about a particularly important file that you deleted several months prior.  
+
+
+### *Questions to Consider* {.unlisted .unnumbered}
+
+- Who will take over your role in the project?   Does someone need to take over your role? 
+  - How does your role contribute to the  IHCR project?  
+  - Consider what expertise critical to your role; does anyone else have this expertise? How will you transfer this expertise to others?  
+- Can your team members understand the data you were responsible for?   Have you left detailed metadata for them to understand this data?  
+  - Could someone easily understand relevant files and documentation you were managing on your personal computer? 
+- Will you be available to call in the event of an emergency?  How prompt can they expect you to be?  What level of involvement will you accept after walking away?  
+  - In the event of an emergency, would anyone be able to recover and understand your data & work?
+
+ 
+
+### *Additional Resources* {.unlisted .unnumbered}
+
+IHCR Data Catalog

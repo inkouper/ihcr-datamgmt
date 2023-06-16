@@ -1,0 +1,31 @@
+---
+title: "Introductory Data Management Guide for Interdisciplinary and Highly Collaborative Research"
+author: "Truitt Elliott, Jonathan Petters, Jonathan Briganti, Anne Brown"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Introductory Data Management Guide for Interdisciplinary and Highly Collaborative Research"
+---
+
+# Introductory Data Management Guide for Interdisciplinary and Highly Collaborative Research {.unnumbered #contents}
+
+
+Interdisciplinary and highly collaborative research (IHCR) is becoming increasingly common as the world becomes more connected.  More than ever before, critical discoveries are often made in strong collaborations of several teams of researchers from related fields.  While interdisciplinary research presents an opportunity for impactful discoveries and greater outputs; it also presents unique challenges, particularly when managing data among several disciplines.   In the past, the projects you’ve worked on may have been individual, or as part of a team of researchers from within your domain - where shared expectations, skills, and communications allowed for effective data management.   However, for interdisciplinary and highly collaborative research, the challenges in working within several domains presents challenges and considerations beyond the usual scope of data management you may be used to.  
+
+This introductory guide will serve as a guide for your group to begin discussion on how best to manage data in your group’s next IHCR project.  Several important points for consideration are presented, divided into sections based on when in the project these points are most important to consider.  For each topic, critical questions to consider are presented to guide the discussions both within internal domain specific teams, and the larger interdisciplinary research group as a whole.  Relevant to each section are linked from each topics page.  While your domain specific team may be working largely independent of other contributors, many of the topics discussed will still be critical to maintaining communications across the interdisciplinary group, and ensuring your work can be properly preserved.  
+
+This introductory guide assumes the reader has prior rudimentary knowledge of data management practices for an domain specific project; however resources are provided for all topics discussed to learn the specifics of data management. Throughout this guide, we define the *__group__* as the broadest set of members in this interdisciplinary/highly collaborative research project, a *__team__* as a subgroup of members within one discipline or part of the collaborative project, and a *__member__* as an individual researcher who is part of both the group and one (or more) teams.
+
+This guide exists as part of a larger Interdisciplinary and Highly Collaborative Research Data Management grant by Indiana State University, the University of Colorado Boulder, and the Virginia Polytechnic Institute - which encourages and provides guidance in collection, curation, archival, and management of IHCR data.  A link to the complete set of work developed under this grant can be found here: [LINK TO ADD]
+
+The creation of this guide was funded by [IMLS award LG-246400-OLS-20](https://www.imls.gov/grants/awarded/lg-246400-ols-20).
+
+Citation
+This guide is made available with a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+Virginia Tech University Libraries, Truitt Elliott, Jonathan Petters
+Authors: Truitt Elliott, Jonathan Petters, Jonathan Briganti
+Last Modified Febuary 1st, 2023
