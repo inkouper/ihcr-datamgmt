@@ -4,15 +4,14 @@ author: "Truitt Elliott, Jonathan Petters, Jonathan Briganti, Anne Brown"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
+#bibliography: [book.bib, packages.bib]
+#biblio-style: apalike
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 description: "Introductory Data Management Guide for Interdisciplinary and Highly Collaborative Research"
 ---
 
 # Introductory Data Management Guide for Interdisciplinary and Highly Collaborative Research {.unnumbered #contents}
-
 
 Interdisciplinary and highly collaborative research (IHCR) is becoming increasingly common as the world becomes more connected.  More than ever before, critical discoveries are often made in strong collaborations of several teams of researchers from related fields.  While interdisciplinary research presents an opportunity for impactful discoveries and greater outputs; it also presents unique challenges, particularly when managing data among several disciplines.   In the past, the projects you’ve worked on may have been individual, or as part of a team of researchers from within your domain - where shared expectations, skills, and communications allowed for effective data management.   However, for interdisciplinary and highly collaborative research, the challenges in working within several domains presents challenges and considerations beyond the usual scope of data management you may be used to.  
 
@@ -28,4 +27,4 @@ Citation
 This guide is made available with a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 Virginia Tech University Libraries, Truitt Elliott, Jonathan Petters
 Authors: Truitt Elliott, Jonathan Petters, Jonathan Briganti
-Last Modified Febuary 1st, 2023
+Last Modified February 1st, 2023
