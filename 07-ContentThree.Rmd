@@ -24,9 +24,9 @@ If a plan is not put in place for long term data archiving and sharing, it’s v
 
 ### *Additional Resources* {.unlisted .unnumbered}
 
-IHCR Data Catalog
+[IHCR Data Catalog](https://inkouper.github.io/ihcr-data-curation/creating-and-maintaining-a-catalog-of-data-assets.html)
 
-IHCR Workflow preservation platform data
+[IHCR Workflow preservation platform data](https://inkouper.github.io/ihcr-data-curation/preserving-data-from-digital-projects-published-online.html)
 
 ## Creating Reusable Data  {#data4}
 
@@ -51,4 +51,4 @@ If your spreadsheet contains columns/rows without identifiers, are connected in 
 
 IHCR Workflow for historical/humanities data modeling
 
-IHCR Workflow preservation platform data
+[IHCR Workflow preservation platform data](https://inkouper.github.io/ihcr-data-curation/preserving-data-from-digital-projects-published-online.html)
