@@ -20,7 +20,7 @@ Keeping data messy, or having no central plan for data management will inevitabl
 
 ### *Additional Resources* {.unlisted .unnumbered}
 
-IHCR Workflow Information storage and organization
+[IHCR Workflow Information storage and organization](https://inkouper.github.io/ihcr-data-curation/Info-org.html)
 
 ## Modifying Tools & Methods  {#modify}
 
@@ -43,7 +43,7 @@ If a tool becomes critical, but is difficult to use due to it being heavily reli
 
 ### *Additional Resources* {.unlisted .unnumbered}
 
-IHCR Quantitative Data Processing
+[IHCR Quantitative Data Processing](https://inkouper.github.io/ihcr-data-curation/processing-collected-quantitative-data-for-easy-analysis-input.html)
 
 ## Responsibly Leaving or Joining an Ongoing Project  {#leave}
 
@@ -68,4 +68,4 @@ If proper steps are not taken, it is very easy for ex-projects members to be unr
 
 ### *Additional Resources* {.unlisted .unnumbered}
 
-IHCR Data Catalog
+[IHCR Data Catalog](https://inkouper.github.io/ihcr-data-curation/creating-and-maintaining-a-catalog-of-data-assets.html)
