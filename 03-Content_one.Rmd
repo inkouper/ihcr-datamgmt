@@ -21,7 +21,7 @@ Without clearly defined goals & expectations, new pieces & components could be a
 
 ### *Additional Resources* {.unlisted .unnumbered}
 
-IHCR Workflow project charter
+[IHCR Workflow project charter](https://inkouper.github.io/ihcr-data-curation/Project-charter.html)
 
 ## Sharing among the group after the project {#sharing}
 
@@ -42,9 +42,9 @@ At first glance, this may seem like a component that could be saved for the end 
 
 ### *Additional Resources* {.unlisted .unnumbered}
 
-IHCR Information storage and organization
+[IHCR Information storage and organization](https://inkouper.github.io/ihcr-data-curation/processing-collected-quantitative-data-for-easy-analysis-input.html)
 
-IHCR Workflow preservation platform data
+[IHCR Workflow preservation platform data](https://inkouper.github.io/ihcr-data-curation/preserving-data-from-digital-projects-published-online.html)
 
 ## Choosing from a variety of tools/methods {#tools}
 
@@ -65,7 +65,7 @@ While many tools are useful, and could speed up the project, careful considerati
 
 ### *Additional Resources* {.unlisted .unnumbered}
 
-IHCR Quantitative Data Processing
+[IHCR Quantitative Data Processing](https://inkouper.github.io/ihcr-data-curation/processing-collected-quantitative-data-for-easy-analysis-input.html)
 
 IHCR Workflow for historical/humanities data modeling
 
