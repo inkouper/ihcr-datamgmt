@@ -1,0 +1,11 @@
+# References 
+
+1. Theresa Valentine, DataONE  (2011) "Best Practice: Define roles and assign responsibilities for data management". Accessed through the Data Management Skillbuilding Hub at https://dataoneorg.github.io/Education/bestpractices/define-roles-and
+
+2. Gunter Waibel, Perry Willett, DataONE  (2018) "Best Practice: Revisit data management plan throughout the project life cycle". Accessed through the Data Management Skillbuilding Hub at https://dataoneorg.github.io/Education/bestpractices/revisit-data-management
+
+3. Wilkinson, M. D.;  Dumontier, M.;  Aalbersberg, I. J.;  Appleton, G.;  Axton, M.;  Baak, A.;  Blomberg, N.;  Boiten, J.-W.;  da Silva Santos, L. B.;  Bourne, P. E.;  Bouwman, J.;  Brookes, A. J.;  Clark, T.;  Crosas, M.;  Dillo, I.;  Dumon, O.;  Edmunds, S.;  Evelo, C. T.;  Finkers, R.;  Gonzalez-Beltran, A.;  Gray, A. J. G.;  Groth, P.;  Goble, C.;  Grethe, J. S.;  Heringa, J.;  ’t Hoen, P. A. C.;  Hooft, R.;  Kuhn, T.;  Kok, R.;  Kok, J.;  Lusher, S. J.;  Martone, M. E.;  Mons, A.;  Packer, A. L.;  Persson, B.;  Rocca-Serra, P.;  Roos, M.;  van Schaik, R.;  Sansone, S.-A.;  Schultes, E.;  Sengstag, T.;  Slater, T.;  Strawn, G.;  Swertz, M. A.;  Thompson, M.;  van der Lei, J.;  van Mulligen, E.;  Velterop, J.;  Waagmeester, A.;  Wittenburg, P.;  Wolstencroft, K.;  Zhao, J.; Mons, B., The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data 2016, 3 (1), 160018.
+
+4. Data Curation Network (2022). “CURATE(D) Steps and Checklist for Data Curation, version 2” http://z.umn.edu/curate.
+
+
