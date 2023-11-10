@@ -1,6 +1,6 @@
 # Table of Contents {.unnumbered #main}
 
-Planning a Project
+Before a Project
 
 -   [Project Management](#managment)
 -   [Sharing among the group after the project](#sharing)

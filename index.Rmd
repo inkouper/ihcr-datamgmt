@@ -1,6 +1,6 @@
 ---
 title: "Introductory Data Management Guide for Interdisciplinary and Highly Collaborative Research"
-author: "Truitt Elliott, Jonathan Petters, Jonathan Briganti, Anne Brown"
+author: "Truitt Elliott, Jonathan Petters, Jonathan Briganti, Anne Brown, Inna Kouper"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -27,4 +27,4 @@ Citation
 This guide is made available with a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 Virginia Tech University Libraries, Truitt Elliott, Jonathan Petters
 Authors: Truitt Elliott, Jonathan Petters, Jonathan Briganti
-Last Modified February 1st, 2023
+Last Modified November 1st, 2023
